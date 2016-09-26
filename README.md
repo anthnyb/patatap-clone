@@ -1,2 +1,2 @@
 # patatap-clone
-Inspired by patatap.com, plays animation effects when keys are pressed. Used paper.js, and howler.js.
+Inspired by [Patatap](http://patatap.com/). Plays animation effects when keys are pressed, using paper.js, and howler.js.
